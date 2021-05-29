@@ -6,6 +6,12 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+<img src="https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tech-React-informational?style=flat&logo=react&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tech-NodeJS-informational?style=flat&logo=node-dot-js&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tech-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tech-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tech-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue"></img>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sksinghl498" alt="sksinghl498" /></a> </p>
 
