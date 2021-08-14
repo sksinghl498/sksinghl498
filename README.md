@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam kumar singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksinghl498&label=Profile%20views&color=0e75b6&style=flat" alt="sksinghl498"  height="25"/> </p>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a )
