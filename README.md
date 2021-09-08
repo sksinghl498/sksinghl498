@@ -1,3 +1,9 @@
+
+
+![github-banner](https://user-images.githubusercontent.com/57589135/132506445-f2eabca5-7f06-42bb-b57d-d62d679c6d67.png)
+
+<hr>
+
 <h1 align="center">Hi 👋, I'm Shivam kumar singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
