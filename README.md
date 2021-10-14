@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/Tech-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue" height="25"></img>
 <img src="https://img.shields.io/badge/Tech-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue" height="25"></img>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+![final-killua](https://user-images.githubusercontent.com/57589135/137326892-d69f7a61-26b0-4da5-b147-f335002c352c.gif)
 
 - 🔭 I’m currently working on (Reactjs)
 
@@ -49,4 +49,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sksinghl498&theme=dark&show_icons=true&locale=en" alt="sksinghl498" /></p>
 <p align="center"><img src="https://camo.githubusercontent.com/7da528df692aea867b90800324488b633f5a8328d74c05a02c26483c0a267799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b73253230666f722532307669736974696e672d212d3145414544422e737667" alt="Thanks!" data-canonical-src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" style="max-width:100%;" height="27"> </p>
+
+
+
 
