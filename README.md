@@ -4,8 +4,13 @@
 
 <hr>
 
+
+
+
 <h1 align="center">Hi 👋, I'm Shivam kumar singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+![final-killua](https://user-images.githubusercontent.com/57589135/137326892-d69f7a61-26b0-4da5-b147-f335002c352c.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksinghl498&label=Profile%20views&color=0e75b6&style=flat" alt="sksinghl498"  height="25"/> </p>
 
@@ -20,7 +25,7 @@
 <img src="https://img.shields.io/badge/Tech-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue" height="25"></img>
 
 
-![final-killua](https://user-images.githubusercontent.com/57589135/137326892-d69f7a61-26b0-4da5-b147-f335002c352c.gif)
+
 
 - 🔭 I’m currently working on (Reactjs)
 
